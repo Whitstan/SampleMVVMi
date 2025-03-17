@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">sampleproject</string>
+
+    <string name="content_description_list">A list of TODO items</string>
+
+    <string name="text_no_items_found">No items found in local database, pull to refresh!</string>
+    <string name="text_list_item_id">ID: %1$d</string>
+    <string name="text_list_item_title">Title: %1$s</string>
+    <string name="text_details_id">ID: %1$d</string>
+    <string name="text_details_completed">Completed</string>
+    <string name="text_details_not_completed">Not completed</string>
+    <string name="text_details_user_id">UserID: %1$d</string>
+
+    <string name="error_no_internet">No internet connection</string>
+    <string name="unknown_error">An unknown error occurred</string>
+
+    <string name="button_back">back</string>
+</resources>
